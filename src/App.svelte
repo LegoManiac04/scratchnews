@@ -1,8 +1,4 @@
 <script>
-  function showMess() {
-    title = "lol get rickrolled";
-  };
-  
 	let title = window.location.pathname.slice(1).replaceAll("-", " ").toUpperCase();
 </script>
 
@@ -14,7 +10,7 @@
   </div>
   <h1 id="title">{title}</h1>
 
-  <div class="yt" on:click={showMess()}>
+  <div class="yt">
      <iframe id="iframe" width="auto" height="auto" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow=""></iframe>
     <div class="button">
       <span>⸻ Load Article ⸻</span>
