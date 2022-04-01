@@ -43,7 +43,7 @@
     line-height: 1.1;
     margin: 2rem auto;
     max-width: 14rem;
-    background-image: url(https://images.pexels.com/photos/2860807/pexels-photo-2860807.jpeg);
+    background-image: url(./bg.jpg);
     padding: 30px;
     background-position: center;
     background-size: cover;
