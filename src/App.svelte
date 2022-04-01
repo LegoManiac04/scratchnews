@@ -43,7 +43,7 @@
     line-height: 1.1;
     margin: 2rem auto;
     max-width: 14rem;
-    background-image: url(./bg.jpg);
+    background-image: url(/bg.jpg);
     padding: 30px;
     background-position: center;
     background-size: cover;
