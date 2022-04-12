@@ -6,7 +6,7 @@
   <title>Scratch News | {title}</title>
 
   <div class="navbar">
-    <h3>Scratch News | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Home</a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Posts</a></h3>
+    <h3>Scratch News | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Home</a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Posts</a> | <a href="https://github.com/LegoManiac04/scratchnews">Github</a</h3>
   </div>
   <h1 id="title">{title}</h1>
 
